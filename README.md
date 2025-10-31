@@ -1,35 +1,4 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>プライバシーポリシー | Libretto house</title>
-  <style>
-    body {
-      font-family: "Noto Sans JP", sans-serif;
-      line-height: 1.8;
-      color: #333;
-      margin: 40px;
-    }
-    h1, h2 {
-      color: #BE3455;
-    }
-    h1 {
-      font-size: 1.8em;
-      border-bottom: 3px solid #BE3455;
-      padding-bottom: 5px;
-    }
-    h2 {
-      font-size: 1.3em;
-      margin-top: 2em;
-    }
-    p {
-      margin: 0.8em 0;
-    }
-    ol {
-      margin-left: 1.5em;
-    }
-  </style>
+
 </head>
 <body>
 
@@ -100,7 +69,6 @@
     電話：0120-298-480
   </p>
 
-  <p style="margin-top: 2em;">プライバシーポリシーに同意する</p>
 
 </body>
 </html>
